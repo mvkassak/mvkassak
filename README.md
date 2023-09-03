@@ -8,9 +8,8 @@
 
 ### Hi there 👋
 - 🔭 I’m Marcos.
-- 😄 I love spending some time digging into ServiceNow stuff, listening to music and playing games.
-- 📫 You can visit my [blog](https://request.do).
-- ⭐ And if you like it, don't forget to leave a star.
+- 😄 I love spending some time digging into ServiceNow stuff, listening to music, and playing games.
+- 📫 You can visit my [blog](https://request.do). And if you like it, don't forget to leave a star [here](https://github.com/mvkassak/request-do). ⭐
 - 🎵 My last played track on Spotify:
 
 
