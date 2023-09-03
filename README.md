@@ -11,17 +11,23 @@
 - 😄 I love spending some time digging into ServiceNow stuff and playing games.
 - 📫 You can visit my [blog](https://request.do).
 - ⭐ And if you like it, don't forget to leave a star.
+- 👀 Also you are curious below is my last played track on Spotify:
 
-<p>
-  
+
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mvkassak&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212c&interchange=true&bar_color_cover=true">
+</p>
+
+<p align="center">  
 <a href="https://github.com/mvkassak/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mvkassak&rank_icon=github&card_width=160" />
 </a>
 <a href="https://github.com/mvkassak/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvkassak&layout=compact&langs_count=8&card_width=160" />
 </a>
+<p align="left">  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mvkassak&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
+
 
 
   
