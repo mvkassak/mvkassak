@@ -15,10 +15,10 @@
 <p>
   
 <a href="https://github.com/mvkassak/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mvkassak&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mvkassak&rank_icon=github&card_width=160" />
 </a>
 <a href="https://github.com/mvkassak/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvkassak&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvkassak&layout=compact&langs_count=8&card_width=160" />
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mvkassak&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
