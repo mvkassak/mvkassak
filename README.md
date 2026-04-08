@@ -6,24 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3">
 </p>
 
-### Hi there 👋
-- 🔭 I’m Marcos.
-- 😄 I love spending some time digging into ServiceNow, listening to music, and playing games.
-- 📫 You can visit my [blog](https://request.do). And if you like it, don't forget to leave a star [here](https://github.com/mvkassak/request-do). ⭐
-
-<!--<p align="left">- 🎵 My last played track on Spotify:
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mvkassak&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212c&interchange=true&bar_color_cover=true">
-</p>-->
-
-<p align="center">  
-<a href="https://github.com/mvkassak/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mvkassak&rank_icon=github&card_width=160" />
-</a>
-<a href="https://github.com/mvkassak/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvkassak&layout=compact&langs_count=8&card_width=160" />
-</a>
-<p align="left">  
-
 
 
 
